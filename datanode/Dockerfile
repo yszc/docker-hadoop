@@ -1,4 +1,4 @@
-FROM bde2020/hadoop-base
+FROM yszc/hadoop-base:2.0.0-hadoop3.1.4-java8
 
 MAINTAINER Ivan Ermilov <ivan.s.ermilov@gmail.com>
 
